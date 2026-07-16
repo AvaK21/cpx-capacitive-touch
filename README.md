@@ -6,6 +6,10 @@ A wearable project using the Adafruit Circuit Playground Express (CPX), sewable 
 
 ---
 
+![NEOPIXELS ON BLUE](IMG_5968.jpeg)
+
+![Felt Backing and Sewing](image.png)
+
 ## Hardware
 
 - Adafruit Circuit Playground Express (CPX)
