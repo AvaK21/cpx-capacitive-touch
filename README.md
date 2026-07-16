@@ -53,6 +53,16 @@ Each junction (solder joint, snap connection, thread-to-button sew point) is a p
 
 ---
 
+## How to Use
+ 
+1. Attach the CPX to the felt backing via the sewable snaps.
+2. Save `code/main.py` to the CPX as `code.py`.
+3. **Do not touch any buttons or pads while the code initializes.** The capacitive threshold is set from the first reading at startup.
+4. Flip the switch on the CPX to ON.
+5. Touch a fabric button to trigger its mapped NeoPixel color.
+
+---
+
 ## Troubleshooting Log
 
 **Short between A3 and A2**
