@@ -5,9 +5,7 @@ A wearable project using the Adafruit Circuit Playground Express (CPX), sewable 
 **Primary goal:** Gain hands-on experience soldering sewable snaps onto CPX pins and sewing conductive thread circuits on felt.
 
 ---
-<img src="IMG_5968.jpeg" alt="NEOPIXELS ON BLUE" width="400">
-
-<img src="image.png" alt="Felt Backing and Sewing" width="400">
+<img src="IMG_5968.jpeg" alt="NEOPIXELS ON BLUE" width="400">   <img src="image.png" alt="Felt Backing and Sewing" width="400">
 
 ## Hardware
 
